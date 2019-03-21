@@ -1,0 +1,38 @@
+{"Timestamp":"2019-02-28T09:50:18.0997978-05:00","Level":"Information","MessageTemplate":"The global logger has been configured."}
+{"Timestamp":"2019-02-28T09:50:21.8580872-05:00","Level":"Information","MessageTemplate":"Bus started"}
+{"Timestamp":"2019-02-28T09:52:55.5090884-05:00","Level":"Information","MessageTemplate":"Value entered: hi","Properties":{"exchangeId":"123"}}
+{"Timestamp":"2019-02-28T09:52:55.5684818-05:00","Level":"Information","MessageTemplate":"Sending request to simple http api...","Properties":{"exchangeId":"123"}}
+{"Timestamp":"2019-02-28T09:52:55.7813306-05:00","Level":"Information","MessageTemplate":"Response recieved: OK","Properties":{"exchangeId":"123"}}
+{"Timestamp":"2019-02-28T09:54:33.8719264-05:00","Level":"Information","MessageTemplate":"Value entered: hiya","Properties":{"exchangeId":"456"}}
+{"Timestamp":"2019-02-28T09:54:33.8880683-05:00","Level":"Information","MessageTemplate":"Value entered: hiyathere","Properties":{"exchangeId":"789"}}
+{"Timestamp":"2019-02-28T09:54:33.8898110-05:00","Level":"Information","MessageTemplate":"Sending request to simple http api...","Properties":{"exchangeId":"456"}}
+{"Timestamp":"2019-02-28T09:54:33.8913376-05:00","Level":"Information","MessageTemplate":"Sending request to simple http api...","Properties":{"exchangeId":"789"}}
+{"Timestamp":"2019-02-28T09:54:33.8949383-05:00","Level":"Information","MessageTemplate":"Value entered: hiyatherelad","Properties":{"exchangeId":"012"}}
+{"Timestamp":"2019-02-28T09:54:33.8979487-05:00","Level":"Information","MessageTemplate":"Sending request to simple http api...","Properties":{"exchangeId":"012"}}
+{"Timestamp":"2019-02-28T09:54:34.0371178-05:00","Level":"Information","MessageTemplate":"Response recieved: OK","Properties":{"exchangeId":"789"}}
+{"Timestamp":"2019-02-28T09:54:34.0371210-05:00","Level":"Information","MessageTemplate":"Response recieved: OK","Properties":{"exchangeId":"456"}}
+{"Timestamp":"2019-02-28T09:54:34.0404934-05:00","Level":"Information","MessageTemplate":"Response recieved: OK","Properties":{"exchangeId":"012"}}
+{"Timestamp":"2019-02-28T09:57:47.5448784-05:00","Level":"Information","MessageTemplate":"Value entered: hiyatherelad","Properties":{"exchangeId":"012"}}
+{"Timestamp":"2019-02-28T09:58:02.7168406-05:00","Level":"Information","MessageTemplate":"Value entered: hiyathereladyou","Properties":{"exchangeId":"345"}}
+{"Timestamp":"2019-02-28T09:58:02.7233485-05:00","Level":"Information","MessageTemplate":"Sending request to simple http api...","Properties":{"exchangeId":"012"}}
+{"Timestamp":"2019-02-28T09:58:02.7255370-05:00","Level":"Information","MessageTemplate":"Sending request to simple http api...","Properties":{"exchangeId":"345"}}
+{"Timestamp":"2019-02-28T09:58:24.1751577-05:00","Level":"Information","MessageTemplate":"Value entered: hiyathereladyouhi","Properties":{"exchangeId":"678"}}
+{"Timestamp":"2019-02-28T09:58:24.1887056-05:00","Level":"Information","MessageTemplate":"Sending request to simple http api...","Properties":{"exchangeId":"678"}}
+{"Timestamp":"2019-02-28T09:58:24.3473018-05:00","Level":"Information","MessageTemplate":"Response recieved: OK","Properties":{"exchangeId":"012"}}
+{"Timestamp":"2019-02-28T09:58:24.3500762-05:00","Level":"Information","MessageTemplate":"Response recieved: OK","Properties":{"exchangeId":"345"}}
+{"Timestamp":"2019-02-28T09:58:30.8305026-05:00","Level":"Information","MessageTemplate":"Response recieved: OK","Properties":{"exchangeId":"678"}}
+{"Timestamp":"2019-02-28T09:58:30.8385527-05:00","Level":"Information","MessageTemplate":"Value entered: hiyatherelad","Properties":{"exchangeId":"012"}}
+{"Timestamp":"2019-02-28T09:58:32.5459747-05:00","Level":"Information","MessageTemplate":"Value entered: hiyathereladyou","Properties":{"exchangeId":"345"}}
+{"Timestamp":"2019-02-28T09:58:33.6002360-05:00","Level":"Information","MessageTemplate":"Value entered: hiyathereladyouhi","Properties":{"exchangeId":"678"}}
+{"Timestamp":"2019-02-28T09:58:33.6064147-05:00","Level":"Information","MessageTemplate":"Sending request to simple http api...","Properties":{"exchangeId":"678"}}
+{"Timestamp":"2019-02-28T09:58:33.6309658-05:00","Level":"Information","MessageTemplate":"Sending request to simple http api...","Properties":{"exchangeId":"012"}}
+{"Timestamp":"2019-02-28T09:58:33.6327815-05:00","Level":"Information","MessageTemplate":"Sending request to simple http api...","Properties":{"exchangeId":"345"}}
+{"Timestamp":"2019-02-28T09:58:33.7424811-05:00","Level":"Information","MessageTemplate":"Response recieved: OK","Properties":{"exchangeId":"678"}}
+{"Timestamp":"2019-02-28T09:58:33.7739168-05:00","Level":"Information","MessageTemplate":"Response recieved: OK","Properties":{"exchangeId":"345"}}
+{"Timestamp":"2019-02-28T09:58:33.7750965-05:00","Level":"Information","MessageTemplate":"Response recieved: OK","Properties":{"exchangeId":"012"}}
+{"Timestamp":"2019-03-01T10:07:39.0546887-05:00","Level":"Information","MessageTemplate":"The global logger has been configured."}
+{"Timestamp":"2019-03-01T11:42:35.9753443-05:00","Level":"Information","MessageTemplate":"The global logger has been configured."}
+{"Timestamp":"2019-03-01T11:44:13.4261950-05:00","Level":"Information","MessageTemplate":"The global logger has been configured."}
+{"Timestamp":"2019-03-01T11:44:15.2161289-05:00","Level":"Information","MessageTemplate":"Bus started"}
+{"Timestamp":"2019-03-01T11:45:58.8981701-05:00","Level":"Information","MessageTemplate":"Value entered: hi","Properties":{"exchangeId":"TEST1234"}}
+{"Timestamp":"2019-03-01T11:46:05.6008081-05:00","Level":"Information","MessageTemplate":"Sending request to simple http api...","Properties":{"exchangeId":"TEST1234"}}
